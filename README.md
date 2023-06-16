@@ -1,2 +1,2 @@
 # SistemaVentasPHP
-SistemaDeVentas-PHP
+SistemaDeVentas-PHP 1.0
