@@ -1,2 +1,2 @@
-# SistemaVentasPHP
-SistemaDeVentas-PHP 1.0
+# ventas-php
+Pequeño sistema de ventas en php y mysql
